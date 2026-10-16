@@ -59,7 +59,7 @@ Built with Python, FAISS, sentence-transformers, Claude (Anthropic API) and Stre
 ## 🚀 Quick start
 
 ```bash
-git clone https://github.com/<your-user>/corrective-rag-system.git
+git clone https://github.com/Mostafa-Omar1/corrective-rag-system.git
 cd corrective-rag-system
 python -m venv .venv && source .venv/bin/activate    # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
